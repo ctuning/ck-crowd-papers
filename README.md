@@ -4,7 +4,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
-This is a [Collective Knowledge repository](https://github.com/ctuning/ck) with collaborative research papers 
-auto-generated via Collective Knowledge framework with the help of the community.
+This is a [Collective Knowledge repository](https://github.com/ctuning/ck) with experimental workflows
+from the reproduced papers during artifact evaluation at ACM, IEEE and NeurIPS conferences.
 
 
