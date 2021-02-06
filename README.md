@@ -7,4 +7,6 @@
 This is a [Collective Knowledge repository](https://github.com/ctuning/ck) with experimental workflows
 from the reproduced papers during artifact evaluation at ACM, IEEE and NeurIPS conferences.
 
+**All CK components can be found at [cKnowledge.io](https://cKnowledge.io) and in [one GitHub repository](https://github.com/ctuning/ai)!**
 
+*This project is hosted by the [cTuning foundation](https://cTuning.org).*

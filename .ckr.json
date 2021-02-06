@@ -1,11 +1,10 @@
 {
-  "data_uoa": "ck-crowd-papers",
-  "data_uid": "686fa086a2b81892",
   "data_alias": "ck-crowd-papers",
   "data_name": "ck-crowd-papers",
+  "data_uid": "686fa086a2b81892",
+  "data_uoa": "ck-crowd-papers",
   "dict": {
-    "shared": "git",
-    "url": "https://github.com/ctuning/ck-crowd-papers",
+    "desc": "",
     "repo_deps": [
       {
         "repo_uoa": "ck-crowdtuning"
@@ -19,6 +18,8 @@
       {
         "repo_uoa": "ck-docker"
       }
-    ]
+    ],
+    "shared": "git",
+    "url": "https://github.com/ctuning/ck-crowd-papers"
   }
 }
